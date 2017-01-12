@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1041564777730",
+    "firebase_url": "https://fingertips-f02f0.firebaseio.com",
+    "project_id": "fingertips-f02f0",
+    "storage_bucket": "fingertips-f02f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041564777730:android:533d5a1e5006c99d",
+        "android_client_info": {
+          "package_name": "com.fingertips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041564777730-m886q2s4f6e3q5ae1ukm8bjhr4up1pm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6c5joX00Xzwx4y87V4HyYqcaOexWiloA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
